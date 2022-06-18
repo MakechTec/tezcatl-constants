@@ -1,0 +1,20 @@
+{
+  "name": "@makechtec/tezcatl-constants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc && terser prebuild/constants.js --output index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeldomp49/tezcatl-constants.git"
+  },
+  "author": "makechtec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeldomp49/tezcatl-constants/issues"
+  },
+  "homepage": "https://github.com/angeldomp49/tezcatl-constants#readme"
+}
