@@ -1,1 +1,1 @@
-"use strict";exports.__esModule=true;exports.CONFIG_FILE=void 0;exports.CONFIG_FILE="tezcatl.config.json";
+"use strict";exports.__esModule=true;exports.TEMPLATE_EXTENSION=exports.CONFIG_FILE=void 0;exports.CONFIG_FILE="tezcatl.config.json";exports.TEMPLATE_EXTENSION=".tzl";
