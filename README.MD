@@ -8,3 +8,4 @@
 
     const CONFIG_FILE
     const TEMPLATE_EXTENSION
+    const TEMPLATE_DESCRIPTOR
